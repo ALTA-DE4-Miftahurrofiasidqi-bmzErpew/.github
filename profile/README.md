@@ -32,9 +32,9 @@
 ### Tahap 3 | Use Github Template
 
 1. Gunakan fitur `Use this template`!
-   ![Alt Text](asset/01-use-template.png)
+   ![Alt Text](asset/01-use-template2.png)
 2. Buat repository pada github organisasi dengan ketentuan berikut!
-   ![Alt Text](asset/02-create-repository.png)
+   ![Alt Text](asset/02-create-repository2.png)
 
 ### Tahap 4 | Lakukan Git Clone
 
