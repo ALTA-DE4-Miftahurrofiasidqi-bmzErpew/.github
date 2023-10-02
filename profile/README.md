@@ -2,6 +2,7 @@
 
 **📔 Basic Programming**
 
+- [Basic-Programming Part1](https://github.com/Immersive-DataEngineer-Resource/Basic-Programming-Part1)
 - [Basic-Programming Part2](https://github.com/Immersive-DataEngineer-Resource/Basic-Programming-Part2)
 - [Basic-Programming Part3](https://github.com/Immersive-DataEngineer-Resource/Basic-Programming-Part3)
 - [Basic-Programming Part4](https://github.com/Immersive-DataEngineer-Resource/Basic-Programming-Part3)
