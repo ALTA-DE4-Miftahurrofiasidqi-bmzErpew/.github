@@ -20,7 +20,7 @@
 
 **📙 RESTful API**
 
-- [RESTful-API](https://github.com/Immersive-DataEngineer-Resource/RESTful-API)
+- [Intro-To-REST](https://github.com/Immersive-DataEngineer-Resource/Intro-To-REST)
 
 # Instruksi
 
