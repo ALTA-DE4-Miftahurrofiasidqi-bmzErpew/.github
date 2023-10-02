@@ -43,11 +43,10 @@
 ### Tahap 5 | Buat Jawaban/Solusi dari Tugas
 
 1. Buat solusi!
-2. Running code dan pastikan code berjalan!
    ![Alt Text](asset/03-solution.png)
-3. Running code di terminal!
+2. Running code dan pastikan code berjalan!
    ![Alt Text](asset/04-running-terminal.png)
-4. Running Unit Testing
+3. Running Unit Testing
    - Failure (jika solusi yang dibuat salah)
      ![Alt Text](asset/05-failure.png)
    - OK/PASS (jika solusi yang dibuat benar)
