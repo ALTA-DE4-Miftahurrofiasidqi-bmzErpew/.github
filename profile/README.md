@@ -22,4 +22,4 @@
 
 ### Tahap 1
 
-![Image](/img/[NEW] Submission Task Data Engineering Class_page-0001.jpg)
+![Image](/img/page-0002.jpg)
