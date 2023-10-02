@@ -34,4 +34,5 @@
 1. Gunakan fitur `Use this template`!
    ![Alt Text](asset/01-use-template.png)
 2. Buat repository pada github organisasi dengan ketentuan berikut!
-   ![Alt Text](02-create-repository.png)
+   ![Alt Text](asset/02-create-repository.png)
+   s
