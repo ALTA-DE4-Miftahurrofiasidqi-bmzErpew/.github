@@ -22,4 +22,4 @@
 
 ### Tahap 1
 
-![Image](.github/img/page-0002.jpg)
+![Image](asset/page-0002.jpg)
