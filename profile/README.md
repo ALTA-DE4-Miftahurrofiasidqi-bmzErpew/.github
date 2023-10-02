@@ -17,3 +17,9 @@
 **📗 Object Oriented Programming**
 
 - [Object-Oriented-Programming](https://github.com/Immersive-DataEngineer-Resource/Object-Oriented-Programming)
+
+## Instruksi
+
+### Tahap 1
+
+![Image](/img/[NEW] Submission Task Data Engineering Class_page-0001.jpg)
