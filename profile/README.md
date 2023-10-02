@@ -22,4 +22,4 @@
 
 ### Tahap 1
 
-![Image](asset/page-0002.jpg)
+![Image](asset/page-0001.jpg)
