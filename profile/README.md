@@ -20,6 +20,16 @@
 
 ## Instruksi
 
-### Tahap 1
+### Tahap 1 | Github Format
 
-![Image](asset/page-0001.jpg)
+1. Buat github organisasi `https://github.com/settings/organizations`
+2. Beri nama organisasi github dengan format `[ALTA]-[PROGRAM_BATCH]-[NAMA]-[TANGGAL LAHIR]`. Contoh `ALTA-DE1-Umam-01Jan2000`
+
+### Tahap 2 | Submission Dengan Template
+
+1. Submit setiap tugas sesuai dengan format yang telah ditentukan di `https://github.com/orgs/Immersive-DataEngineer-Resource/ `
+
+### Tahap 3 | Use Github Template
+
+1. Gunakan fitur `Use this template`!
+   ![Alt Text](asset/01-use-template.png)
