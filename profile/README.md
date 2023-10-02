@@ -35,4 +35,31 @@
    ![Alt Text](asset/01-use-template.png)
 2. Buat repository pada github organisasi dengan ketentuan berikut!
    ![Alt Text](asset/02-create-repository.png)
-   s
+
+### Tahap 4 | Lakukan Git Clone
+
+1. Contoh Git Clone pada terminal `git clone https://github.com/ALTA-DE1-Umam-01Jan2000/Basic-Programming-Part3.git`
+
+### Tahap 5 | Buat Jawaban/Solusi dari Tugas
+
+1. Buat solusi!
+2. Running code dan pastikan code berjalan!
+   ![Alt Text](asset/03-solution.png)
+3. Running code di terminal!
+   ![Alt Text](asset/04-running-terminal.png)
+4. Running Unit Testing
+   - Failure (jika solusi yang dibuat salah)
+     ![Alt Text](asset/05-failure.png)
+   - OK/PASS (jika solusi yang dibuat benar)
+     ![Alt Text](asset/06-pass.png)
+
+### Tahap 6 | Screenshot & Git Push!
+
+1. Tempatkan file screenshot gambar pada file `runnig_test`
+   ![Alt Text](asset/07-upload-file.png)
+2. Lakukan commit perubahan!
+   ![Alt Text](asset/08-git-commit.png)
+3. Lakukan Git Push!
+   ![Alt Text](asset/09-git-push.png)
+4. Cek apakah code git `Github.com` sudah terupdate!
+   ![Alt Text](asset/10-github.png)
