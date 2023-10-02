@@ -1,7 +1,5 @@
 ## Template Submission Task
 
-**📕 SQL**
-
 **📔 Basic Programming**
 
 - [Basic-Programming Part2](https://github.com/Immersive-DataEngineer-Resource/Basic-Programming-Part2)
