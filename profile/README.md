@@ -1,6 +1,6 @@
 # Template Submission Task
 
-**📔 SQL/Relational Database**
+**📓 SQL/Relational Database**
 
 - [SQL-Relational-Database](https://github.com/Immersive-DataEngineer-Resource/SQL-Relational-Database.git)
 
