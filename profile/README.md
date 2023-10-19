@@ -30,6 +30,10 @@
 
 - [Docker](https://github.com/Immersive-DataEngineer-Resource/Docker)
 
+**📙 Fundamental DE**
+
+- [Fundamental-DE](https://github.com/Immersive-DataEngineer-Resource/fundamental-de)
+
 # Instruksi
 
 ### Tahap 1 | Github Format
