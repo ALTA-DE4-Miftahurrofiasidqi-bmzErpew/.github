@@ -34,6 +34,10 @@
 
 - [Fundamental-DE](https://github.com/Immersive-DataEngineer-Resource/fundamental-de)
 
+**📙 Datawarehouse**
+
+- [Datawarehouse](https://github.com/Immersive-DataEngineer-Resource/data-warehouse-submission)
+
 # Instruksi
 
 ### Tahap 1 | Github Format
