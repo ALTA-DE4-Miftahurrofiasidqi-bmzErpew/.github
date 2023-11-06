@@ -38,6 +38,10 @@
 
 - [Datawarehouse](https://github.com/Immersive-DataEngineer-Resource/data-warehouse-submission)
 
+**📙 Data Ingestion**
+
+- [Data Ingestion](https://github.com/Immersive-DataEngineer-Resource/ingestion-data/)
+
 # Instruksi
 
 ### Tahap 1 | Github Format
