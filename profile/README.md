@@ -9,7 +9,7 @@
 - [Basic-Programming-Part1](https://github.com/ALTA-DE4-Miftahurrofiasidqi-bmzErpew/Basic-Programming-Part1)
 - [Basic-Programming-Part2](https://github.com/ALTA-DE4-Miftahurrofiasidqi-bmzErpew/Basic-Programming-Part2)
 - [Basic-Programming-Part3](https://github.com/ALTA-DE4-Miftahurrofiasidqi-bmzErpew/Basic-Programming-Part3)
-- [Basic-Programming-Part4](https://github.com/ALTA-DE4-Miftahurrofiasidqi-bmzErpew/Basic-Programming-Part3)
+- [Basic-Programming-Part4](https://github.com/ALTA-DE4-Miftahurrofiasidqi-bmzErpew/Programming-Part4)
 - [Basic-Programming-Part5](https://github.com/ALTA-DE4-Miftahurrofiasidqi-bmzErpew/Basic-Programming-Part5)
 - [Basic-Programming-Part6](https://github.com/ALTA-DE4-Miftahurrofiasidqi-bmzErpew/Basic-Programming-Part6)
 
