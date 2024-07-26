@@ -36,7 +36,7 @@
 
 **📙 Datawarehouse**
 
-- [Datawarehouse](https://github.com/ALTA-DE4-Miftahurrofiasidqi-bmzErpew/data-warehouse-submission)
+- [Datawarehouse](https://github.com/ALTA-DE4-Miftahurrofiasidqi-bmzErpew/data-warehouse)
 
 **📙 Data Ingestion**
 
